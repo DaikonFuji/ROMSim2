@@ -1,0 +1,11 @@
+{
+  "name": "romsim2",
+  "private": true,
+  "description": "Ragnarok M: Eternal Love build simulator (ROM Solo data)",
+  "scripts": {
+    "test": "node tests/compare.js"
+  },
+  "devDependencies": {
+    "fengari": "^0.1.5"
+  }
+}
